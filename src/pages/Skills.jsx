@@ -3,7 +3,7 @@ function Skills() {
     <section className="skills">
 
       <h2 className="skills-heading">Primary Skills</h2>
-      <p className="skills-sub">Frontend / React </p>
+      <p className="skills-sub">Frontend / React.js </p>
 
       <div className="skills-grid">
         <Skill icon="devicon-html5-plain colored" name="HTML" />
